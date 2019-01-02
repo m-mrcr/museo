@@ -113,7 +113,7 @@ pry(main)> curator.photographs.first.name
 #=> "Rue Mouffetard, Paris (Boy with Bottles)"
 
 pry(main)> artist_1 = {
-  id: "1"
+  id: "1",
   name: "Henri Cartier-Bresson",      
   born: "1908",      
   died: "2004",      
